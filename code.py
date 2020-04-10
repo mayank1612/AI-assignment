@@ -3,7 +3,7 @@ import string as st
         
 def truck():
     filename="desktop/truckai.csv"
-    feids=[]
+    fieds=[]
     rows=[]
     with open(filename, 'r') as csvfile: 
     # creating a csv reader object 
